@@ -1,0 +1,3 @@
+variable = 'victor'
+
+print(variable)
