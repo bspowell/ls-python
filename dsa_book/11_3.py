@@ -17,4 +17,4 @@ def tri(n):
 
 
 print(tri(7)) # 28
-print(tri(6)) # 28
+print(tri(6)) # 21
